@@ -1,0 +1,62 @@
+C Programming Bootcamp Projects - July 2023
+Introduction
+This Git repository contains all the projects completed by me during the C Programming Bootcamp at Hive Helsinki in July 2023. The bootcamp followed the revolutionary education model of the French school Ecole 42, focusing on peer-to-peer collaboration, problem-solving, and creativity. The projects were completed as part of the rigorous curriculum to hone programming skills and gain proficiency in C programming.
+
+About Hive Helsinki
+Hive Helsinki is a coding school in Helsinki, Finland, founded in 2019 based on the education model of Ecole 42. The school disrupts traditional education methods, promoting peer-to-peer collaboration and emphasizing problem-solving and creativity. With impressive results in graduate employability and coding experience, Hive Helsinki has inspired other schools worldwide to replicate its successful model.
+
+Projects Overview
+The following is a list of the completed exercises from each  projet during the C Programming Bootcamp at Hive Helsinki in July 2023:
+
+Project 00 - 00P
+ex00: ft_putchar, ex01: ft_print_alphabet, ex02: ft_print_reverse_alphabet, ex03: ft_print_numbers, ex04: ft_is_negative,
+ex05: ft_print_comb
+
+Project 01 - 01P
+ex00: ft_ft, ex01: ft_ultimate_ft, ex02: ft_swap, ex03: ft_div_mod, ex04: ft_ultimate_div_mod, ex05: ft_putstr,
+ex06: ft_strlen, ex07: ft_rev_int_tab, ex08: ft_sort_int_tab
+
+Project 02 - 02P
+ex00: ft_strcpy, ex01: ft_strncpy, ex02: ft_str_is_alpha, ex03: ft_str_is_numeric, ex04: ft_str_is_lowercase,
+ex05: ft_str_is_uppercase, ex06: ft_str_is_printable, ex07: ft_strupcase, ex08: ft_strlowcase, ex09: ft_strcapitalize
+
+Project 03 - 03P
+ex00: ft_strcmp, ex01: ft_strncmp, ex02: ft_strcat, ex03: ft_strncat, ex04: ft_strstr
+
+Project 04 - 04P
+ex00: ft_strlen, ex01: ft_putstr, ex02: ft_putnbr, ex03: ft_atoi,
+
+Project 05 - 05P
+ex00: ft_iterative_factorial, ex01: ft_recursive_factorial, ex02: ft_iterative_power, ex03: ft_recursive_power, 
+ex04: ft_fibonacci, ex05: ft_sqrt, ex06: ft_is_prime 
+
+Project 06 - 06P
+ex00: ft_print_program_name, ex01: ft_print_params, ex02: ft_rev_params, ex03: ft_sort_params 
+
+Project 07 - 07P
+ex00: ft_strdup, ex01: ft_range, ex02: ft_ultimate_range, ex03: ft_strjoin,
+
+Project 08 - 08P
+ex00: ft.h, ex01: ft_boolean.h, ex02: ft_abs.h, ex03: ft_point.h, ex04: ft_strs_to_tab, ex05: ft_show_tab
+
+Project 09 - 09P
+ex00: libft, ex01: Makefile, ex02: ft_split
+
+Project 10 - 10P
+ex00: ft_display_file
+
+Project Highlights
+Among the completed projects, I am most proud of my program called ft_split in Project 09 (ex02 - ft_split.c). This program demonstrates the ability to extract words from a string based on separator characters found in another string. The solution showcases my proficiency in C programming and string manipulation.
+
+Future Aspirations
+The C Programming Bootcamp experience at Hive Helsinki has left me exhilarated and excited about coding. I am looking forward to pursuing a career as a software developer, where I can apply the skills and knowledge gained during this bootcamp. The strong foundation in programming and problem-solving acquired here will undoubtedly help me succeed in my future endeavors.
+
+Conclusion
+This repository serves as a testament to the hard work and dedication put forth during the C Programming Bootcamp at Hive Helsinki in July 2023. The projects completed here demonstrate a solid understanding of C programming principles and problem-solving abilities. I am grateful for the opportunity to learn and grow in this innovative educational environment.
+
+For inquiries or further information, please feel free to contact me at oliverhertzberg@hotmail.com.
+
+Thank you for visiting!
+
+Sincerely,
+Oliver Hertzberg
